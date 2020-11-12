@@ -3,6 +3,7 @@
 singup page 
 plz go and add tthis script in "package.json" so you can run in a different browsers
 
+   /*************************************************************************************************************************/
   "scripts": {
     "test": "./node_modules/.bin/cypress run --headed",
     "test_Firefox": "./node_modules/.bin/cypress run --browser firefox",
