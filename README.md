@@ -1,7 +1,7 @@
 # Cypress
 //kindly note:i face a problem to handle the recaptcha 
-singup page 
-plz go and add tthis script in "package.json" so you can run in a different browsers
+ 
+plz go and add this script in "package.json" so you can run in a different browsers
 
    /*************************************************************************************************************************/
   "scripts": {
